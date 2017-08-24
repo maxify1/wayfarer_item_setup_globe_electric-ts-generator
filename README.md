@@ -1,0 +1,1 @@
+# wayfarer_item_setup_globe_electric-ts-generator
